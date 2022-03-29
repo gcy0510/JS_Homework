@@ -3,6 +3,6 @@
 ### 遍历DOM树
 ```
 let script = document.createElement("script");
-script.src = "";
+script.src = "https://github.com/gcy0510/JS_Homework/blob/main/js/dom_traverse.js";
 document.body.appendChild(script);
 ```
